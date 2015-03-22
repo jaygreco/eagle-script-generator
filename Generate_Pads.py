@@ -1,12 +1,12 @@
 
 #########################################################################
-#																		#
-# Python script to generate standardized device layouts in eagle.		#
-# Default is through-hole DIP, but this can easily be changed. 			#
+#									#
+# Python script to generate standardized device layouts in eagle.	#
+# Default is through-hole DIP, but this can easily be changed. 		#
 # Simply change the pad spacing (0.1" is default), choose the number 	#
-# of X and Y pads, the X and Y spacing, and run the script. 			#
-# It will generate an EAGLE .scr script file. 							#
-#																		#
+# of X and Y pads, the X and Y spacing, and run the script. 		#
+# It will generate an EAGLE .scr script file. 				#
+#									#
 #########################################################################
 
 #Import the time module
